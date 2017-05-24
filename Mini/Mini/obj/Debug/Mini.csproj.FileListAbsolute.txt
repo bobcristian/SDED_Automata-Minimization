@@ -1,0 +1,10 @@
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\bin\Debug\Mini.exe.config
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\bin\Debug\Mini.exe
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\bin\Debug\Mini.pdb
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.csprojResolveAssemblyReference.cache
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.Properties.Resources.resources
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.Start.resources
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.Tabel.resources
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.csproj.GenerateResource.Cache
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.exe
+E:\Scoala\Anul2\Sem2\SDED\Tema\Mini\Mini\obj\Debug\Mini.pdb
